@@ -60,10 +60,10 @@ export const siteData = {
       description:
         "Ongoing waterproofing and protective coating works for critical plant structures, focusing on moisture protection, durability and long-term maintenance reduction.",
       images: [
-        "/public/projects/meja-urja/1.jpg",
-        "/public/projects/meja-urja/2.jpg",
-        "/public/projects/meja-urja/3.jpg",
-        "/public/projects/meja-urja/4.jpg",
+        "/projects/meja-urja/1.jpg",
+        "/projects/meja-urja/2.jpg",
+        "/projects/meja-urja/3.jpg",
+        "/projects/meja-urja/4.jpg",
       ],
       calloutLeftLines: ["RUN", "NING", "NOW"],
       calloutRight:
@@ -79,11 +79,11 @@ export const siteData = {
         description:
           "Completed waterproofing and protective coating works with emphasis on durability, weather resistance, and long-term performance.",
         images: [
-          "/public/projects/central-vista/1.jpg",
-          "/public/projects/central-vista/2.jpg",
-          "/public/projects/central-vista/3.jpg",
-          "/public/projects/central-vista/4.jpg",
-          "/public/projects/central-vista/5.jpg",
+          "/projects/central-vista/1.jpg",
+          "/projects/central-vista/2.jpg",
+          "/projects/central-vista/3.jpg",
+          "/projects/central-vista/4.jpg",
+          "/projects/central-vista/5.jpg",
         ],
       },
       {
@@ -94,9 +94,9 @@ export const siteData = {
         description:
           "Waterproofing solutions delivered for high-usage infrastructure areas requiring long-life protection and consistent quality checks.",
         images: [
-            "/public/projects/delhi-mrts/1.jpg",
-            "/public/projects/delhi-mrts/2.jpg",
-            "/public/projects/delhi-mrts/3.jpg",
+            "/projects/delhi-mrts/1.jpg",
+            "/projects/delhi-mrts/2.jpg",
+            "/projects/delhi-mrts/3.jpg",
         ],
       },
       {
@@ -107,11 +107,11 @@ export const siteData = {
         description:
           "High-performance waterproofing systems applied with strict QA checks, ensuring durability and finish consistency.",
         images: [
-          "/public/projects/central-vista/1.jpg",
-          "/public/projects/central-vista/2.jpg",
-          "/public/projects/central-vista/3.jpg",
-          "/public/projects/central-vista/4.jpg",
-          "/public/projects/central-vista/5.jpg",
+          "/projects/central-vista/1.jpg",
+          "/projects/central-vista/2.jpg",
+          "/projects/central-vista/3.jpg",
+          "/projects/central-vista/4.jpg",
+          "/projects/central-vista/5.jpg",
         ],
       },
       {
@@ -122,10 +122,10 @@ export const siteData = {
         description:
           "Protective coatings and waterproofing for industrial structures under demanding environmental exposure conditions.",
         images: [
-          "/public/projects/ntpc/1.jpg",
-          "/public/projects/ntpc/2.jpg",
-          "/public/projects/ntpc/3.jpg",
-          "/public/projects/ntpc/4.jpg",
+          "/projects/ntpc/1.jpg",
+          "/projects/ntpc/2.jpg",
+          "/projects/ntpc/3.jpg",
+          "/projects/ntpc/4.jpg",
         ],
       },
       {
@@ -136,11 +136,11 @@ export const siteData = {
         description:
           "Completed waterproofing works focused on moisture protection, longevity, and reduced maintenance cycles.",
         images: [
-          "/public/projects/nalanda/1.jpg",
-          "/public/projects/nalanda/2.jpg",
-          "/public/projects/nalanda/3.jpg",
-            "/public/projects/nalanda/4.jpg",
-            "/public/projects/nalanda/5.jpg",
+          "/projects/Nalanda/1.jpg",
+          "/projects/Nalanda/2.jpg",
+          "/projects/Nalanda/3.jpg",
+         "/projects/Nalanda/4.jpg",
+         "/projects/Nalanda/5.jpg",
         ],
       },
     ],
@@ -169,22 +169,22 @@ export const siteData = {
     {
       name: "Ranjan Kumar",
       role: "Founder & Managing Director",
-      image: "/public/Profile/ranjan.jpg",
+      image: "/Profile/ranjan.jpg",
     },
     {
       name: "Ranjan Kumar",
       role: "On-site Supervision",
-      image: "/public/Profile/ranjan.jpg",
+      image: "/Profile/ranjan.jpg",
     },
     {
       name: "Ranjan Kumar",
       role: "Quality Assurance",
-      image: "/public/Profile/ranjan.jpg",
+      image: "/Profile/ranjan.jpg",
     },
     {
       name: "Ranjan Kumar",
       role: "Training & Guidance",
-      image: "/public/Profile/ranjan.jpg",
+      image: "/Profile/ranjan.jpg",
     },
   ],
 
